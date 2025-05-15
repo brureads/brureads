@@ -18,5 +18,5 @@ Sou estudante de Engenharia da Computação!!
 </div>
 
 ##
-<a href="https://www.linkedin.com/in/thor-caravellas-campos-8b2200362" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logocolor=white" target="_blank">
+<a href="https://www.linkedin.com/in/bruna-martins-moura-a98028365" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logocolor=white" target="_blank">
 </a>
