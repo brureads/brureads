@@ -1,4 +1,4 @@
-## Sou a Bruna Martins Moura
+## Oie!! meu nome é Bruna 
 Sou estudante de Engenharia da Computação!!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brureads&show_icons=true&theme=omni)
