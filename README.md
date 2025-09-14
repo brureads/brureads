@@ -1,5 +1,8 @@
-## Oie!! meu nome é Bruna 
-Sou estudante de Engenharia da Computação!!
+## Oiee, meu nome é Bruna 🎀
+
+Sou estudante de **Engenharia da Computação** 💻✨  
+Atualmente no **3º semestre** da faculdade, sempre buscando aprender e evoluir!
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brureads&show_icons=true&theme=omni)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brureads&layout=compact&custom_title=Tecnologi&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
