@@ -1,6 +1,6 @@
-## Oiee, meu nome é Bruna 🎀
+## Oiee, meu nome é Bruna 
 
-Sou estudante de **Engenharia da Computação** 💻✨  
+Sou estudante de **Engenharia da Computação** 
 Atualmente no **3º semestre** da faculdade, sempre buscando aprender e evoluir!
 
 
@@ -21,7 +21,7 @@ Atualmente no **3º semestre** da faculdade, sempre buscando aprender e evoluir!
 <a href="https://www.linkedin.com/in/bruna-martins-moura-a98028365" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logocolor=white" target="_blank">
 </a>
 
-<h3 align="left">Tecnologias que uso ✨</h3>
+<h3 align="left">Tecnologias que uso </h3>
 
 <table>
   <tr>
