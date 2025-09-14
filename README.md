@@ -8,9 +8,6 @@ Sou estudante de Engenharia da Computação!!
 
 
 
-<div style="display: inline_block"><br>
-<img align="center" alt="vitor-C" heinght="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="center" alt="vs" heinght="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
           
 
 
@@ -21,9 +18,26 @@ Sou estudante de Engenharia da Computação!!
 <a href="https://www.linkedin.com/in/bruna-martins-moura-a98028365" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logocolor=white" target="_blank">
 </a>
 
-### Tecnologias que uso ✨
+<h3 align="left">Tecnologias que uso ✨</h3>
 
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/><br/>
+      <sub><b>C</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><br/>
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/><br/>
+      <sub><b>VS Code</b></sub>
+    </td>
+  </tr>
+</table>
+
