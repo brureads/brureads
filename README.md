@@ -3,12 +3,8 @@
 Sou estudante de **Engenharia da Computação** 
 Atualmente no **3º semestre** da faculdade, sempre buscando aprender e evoluir!
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=brureads&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brureads&hide_progress=true&theme=ambient_gradient)
 
           
 
