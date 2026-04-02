@@ -1,7 +1,7 @@
 ## Oiee, meu nome é Bruna 
 
 Sou estudante de **Engenharia da Computação** 
-Atualmente no **3º semestre** da faculdade, sempre buscando aprender e evoluir!
+Atualmente no **4º semestre** da faculdade, sempre buscando aprender e evoluir!
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brureads&hide_progress=true&theme=ambient_gradient)
