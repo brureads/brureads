@@ -56,10 +56,22 @@
 
 ###
 
-<div align="center">
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brureads&show_icons=true&title_color=ff69b4&text_color=ffc0cb&icon_color=ff69b4&bg_color=0d1117&hide_border=true" alt="GitHub stats" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=brureads&show_icons=true&title_color=ff69b4&text_color=ffc0cb&icon_color=ff69b4&bg_color=0d1117&hide_border=true"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=brureads&hide=html&layout=compact&bg_color=0d1117&title_color=ff69b4&text_color=ffc0cb&icon_color=ff69b4&hide_border=true"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
  
 ###
 
