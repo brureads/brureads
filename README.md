@@ -58,7 +58,7 @@
 
 <div align="center">
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brureads&show_icons=true&title_color=ff69b4&text_color=ff69b4&icon_color=ff69b4&bg_color=ffffff&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brureads&show_icons=true&title_color=ff69b4&text_color=ffc0cb&icon_color=ff69b4&bg_color=0d1117&hide_border=true" alt="GitHub stats" />
 </p>
  
 ###
