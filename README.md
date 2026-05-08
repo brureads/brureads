@@ -54,12 +54,3 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="Windows"/></code>
-
-### 📊 Most Used Languages
-
-<div align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brureads&layout=compact&langs_count=8&bg_color=0d1117&title_color=ff69b4&text_color=ffc0cb&hide_border=true"
-    alt="Most Used Languages"
-  />
-</div>
