@@ -55,4 +55,11 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="Windows"/></code>
 
+### 📊 Most Used Languages
 
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brureads&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&v=2"
+    alt="Most Used Languages"
+  />
+</div>
