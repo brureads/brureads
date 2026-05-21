@@ -44,7 +44,7 @@
       </a>
     </td>
     <td>
-      my college notes, summaries and study materials from my computer science journey
+      my college notes, summaries and study materials from my computer science/enginnering journey
     </td>
   </tr>
 </table>
