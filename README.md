@@ -1,5 +1,7 @@
 <div align="center">
-<img width="200" height="200" alt="st_small_507x507-pad_600x600_f8f8f8-removebg-preview(1)" src="https://github.com/user-attachments/assets/60ad8d71-fff3-43eb-af9e-87e0aa6af341" />
+<img width="500" height="200" alt="1000413831" src="https://github.com/user-attachments/assets/2b83de80-77b9-4454-b8da-9828a5edbdd0" />
+
+
 
 
 
@@ -14,20 +16,9 @@
 
  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 </div>
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=brureads&"  />
 </div>
-
-
-
-###
-
-<h1 align="center">Oie!! Bru's Git</h1>
-
-###
 
 <h3 align="left">👩‍💻 Sobre mim</h3>
 
