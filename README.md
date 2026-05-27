@@ -27,7 +27,7 @@
 🌵 Computer Science / Computer Engineering student from Brazil  
 💻 Learning programming, databases, networks and interfaces  
 🎧 Tech, cute design, GitHub, Linux and coffee lover  
-📚 Currently studying: C, JavaScript, TypeScript, HTML, CSS, SQL and Python  
+📚 Currently studying: Power BI, TypeScript, HTML, CSS and SQL  
 
 ---
 ## 📁 fav repos
