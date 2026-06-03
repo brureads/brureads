@@ -30,24 +30,13 @@
 📚 Currently studying: Power BI, TypeScript, HTML, CSS and SQL  
 
 ---
+
 ## 📁 fav repos
 
-<table>
-  <tr>
-    <th>name</th>
-    <th>description</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/brureads/anotacoes-faculdade">
-        anotacoes-faculdade
-      </a>
-    </td>
-    <td>
-      my college notes, summaries and study materials from my computer science/enginnering journey
-    </td>
-  </tr>
-</table>
+| name | description |
+|------|-------------|
+| [anotacoes-faculdade](https://github.com/brureads/anotacoes-faculdade.git) | my college notes, summaries and study materials from my computer science/engineering journey |
+| [slides_faculdade](https://github.com/brureads/slides_faculdade.git) | my college class slides organized by subject, used as support material for studying and reviewing |
 
 ---
 ## languages & tools
