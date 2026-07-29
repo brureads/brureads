@@ -36,7 +36,6 @@
 | name | description |
 |------|-------------|
 | [anotacoes-faculdade](https://github.com/brureads/anotacoes-faculdade.git) | my college notes, summaries and study materials from my computer science/engineering journey |
-| [slides_faculdade](https://github.com/brureads/slides_faculdade.git) | my college class slides organized by subject, used as support material for studying and reviewing |
 
 ---
 ## languages & tools
