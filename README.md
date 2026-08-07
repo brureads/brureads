@@ -66,3 +66,15 @@
 <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
+
+
+---
+
+## Contributions
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/brureads/brureads/output/github-contribution-grid-snake.svg"
+    alt="Snake animation"
+  />
+</div>
