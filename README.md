@@ -31,7 +31,7 @@
 
 ---
 
-## 📚 current semester — 2026/2
+## current semester — 2026/2
 
 | repository | description |
 | --- | --- |
@@ -46,9 +46,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c,mysql,postgres,bootstrap,github,vscode,linux,windows" />
 </p>
-
----
-## tech stack
 
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -70,6 +67,11 @@
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
 
+
+---
+<p align="center">
+  <img width="47%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=brureads&layout=compact&langs_count=5&custom_title=Most%20used%20languages&title_color=ff69b4&text_color=ff8fab&bg_color=000000&border_color=ff69b4" />&nbsp;<img width="47%" src="https://github-stats-extended.vercel.app/api?username=brureads&show_icons=true&hide_rank=true&custom_title=brureads%27s%20GitHub%20Stats&title_color=ff69b4&text_color=ff8fab&icon_color=ff69b4&bg_color=000000&border_color=ff69b4" />
+</p>
 
 ---
 
