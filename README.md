@@ -31,11 +31,14 @@
 
 ---
 
-## 📁 fav repos
+## 📚 current semester — 2026/2
 
-| name | description |
-|------|-------------|
-| [anotacoes-faculdade](https://github.com/brureads/anotacoes-faculdade.git) | my college notes, summaries and study materials from my computer science/engineering journey |
+| repository | description |
+| --- | --- |
+| [💻 desenvolvimento-de-sistemas](https://github.com/brureads/desenvolvimento-de-sistemas) | Java desktop development, activities and projects using Eclipse |
+| [⚙️ integracao-devops](https://github.com/brureads/integracao-devops) | DevOps studies, activities and practices |
+| [📋 engenharia-de-requisitos](https://github.com/brureads/engenharia-de-requisitos) | requirements engineering activities, projects and documentation |
+| [🧠 metodologia-desenvolvimento-sistemas](https://github.com/brureads/metodologia-desenvolvimento-sistemas) | notes, activities and projects about software development methodologies |
 
 ---
 ## languages & tools
